@@ -1,0 +1,15 @@
+/Users/ilyalevshenkov/Desktop/_IT Обучение/Lesson5.1/Ex5.1/Ex34/bin/Debug/net6.0/Ex34
+/Users/ilyalevshenkov/Desktop/_IT Обучение/Lesson5.1/Ex5.1/Ex34/bin/Debug/net6.0/Ex34.deps.json
+/Users/ilyalevshenkov/Desktop/_IT Обучение/Lesson5.1/Ex5.1/Ex34/bin/Debug/net6.0/Ex34.runtimeconfig.json
+/Users/ilyalevshenkov/Desktop/_IT Обучение/Lesson5.1/Ex5.1/Ex34/bin/Debug/net6.0/Ex34.dll
+/Users/ilyalevshenkov/Desktop/_IT Обучение/Lesson5.1/Ex5.1/Ex34/bin/Debug/net6.0/Ex34.pdb
+/Users/ilyalevshenkov/Desktop/_IT Обучение/Lesson5.1/Ex5.1/Ex34/obj/Debug/net6.0/Ex34.csproj.AssemblyReference.cache
+/Users/ilyalevshenkov/Desktop/_IT Обучение/Lesson5.1/Ex5.1/Ex34/obj/Debug/net6.0/Ex34.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilyalevshenkov/Desktop/_IT Обучение/Lesson5.1/Ex5.1/Ex34/obj/Debug/net6.0/Ex34.AssemblyInfoInputs.cache
+/Users/ilyalevshenkov/Desktop/_IT Обучение/Lesson5.1/Ex5.1/Ex34/obj/Debug/net6.0/Ex34.AssemblyInfo.cs
+/Users/ilyalevshenkov/Desktop/_IT Обучение/Lesson5.1/Ex5.1/Ex34/obj/Debug/net6.0/Ex34.csproj.CoreCompileInputs.cache
+/Users/ilyalevshenkov/Desktop/_IT Обучение/Lesson5.1/Ex5.1/Ex34/obj/Debug/net6.0/Ex34.dll
+/Users/ilyalevshenkov/Desktop/_IT Обучение/Lesson5.1/Ex5.1/Ex34/obj/Debug/net6.0/refint/Ex34.dll
+/Users/ilyalevshenkov/Desktop/_IT Обучение/Lesson5.1/Ex5.1/Ex34/obj/Debug/net6.0/Ex34.pdb
+/Users/ilyalevshenkov/Desktop/_IT Обучение/Lesson5.1/Ex5.1/Ex34/obj/Debug/net6.0/Ex34.genruntimeconfig.cache
+/Users/ilyalevshenkov/Desktop/_IT Обучение/Lesson5.1/Ex5.1/Ex34/obj/Debug/net6.0/ref/Ex34.dll
